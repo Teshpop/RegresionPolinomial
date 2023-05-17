@@ -1,4 +1,6 @@
-# RegresionPolinomial
+<center>
+
+# Regresion Polinomial
 
 ## Pedro Luis Tello Castillo
 
@@ -6,4 +8,4 @@
 
 ## 4 Semestre
 
-### [Demo del proyecto](https://regresion-polinomial.vercel.app/)
+## [Demo del proyecto](https://regresion-polinomial.vercel.app/)
